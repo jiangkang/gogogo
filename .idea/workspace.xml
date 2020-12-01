@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e869ca56-4f97-45a4-9a93-fdbcecbca585" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/email/mail_utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -80,9 +78,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="520" y="277" key="#Go_Modules/0.23.1440.831/-1920.-221.1920.1057@0.23.1440.831" timestamp="1604653809757" />
-    <state x="306" y="31" key="CommitChangelistDialog2" timestamp="1604739246493">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="306" y="31" key="CommitChangelistDialog2" timestamp="1606827707717">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state x="306" y="31" key="CommitChangelistDialog2/0.23.1440.828/-1920.-221.1920.1057@0.23.1440.828" timestamp="1606827707717" />
     <state x="306" y="31" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1604739246493" />
     <state x="619" y="305" key="EnvironmentVariablesDialog" timestamp="1604653807345">
       <screen x="0" y="23" width="1440" height="831" />
